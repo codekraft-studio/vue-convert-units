@@ -9,6 +9,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --target lib --name build ./src/ConvertUnits.js",
     "build-demo": "vue-cli-service build --dest docs",
+    "publish-demo": "git subtree push --prefix docs origin gh-pages",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
