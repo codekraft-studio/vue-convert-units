@@ -1,15 +1,17 @@
 # vue-convert-units
 
+### [DEMO](https://codekraft-studio.github.io/vue-convert-units/)
+
 ## Installation
 
 Download the project using your favourite package manager:
 
 ```
-npm install vue-convert-units
-yarn install vue-convert-units
+npm install @codekraft-studio/vue-convert-units
+yarn install @codekraft-studio/vue-convert-units
 ```
 
-This command will download the Vue plugin and the [convert-units](https://github.com/ben-ng/convert-units) package from [ben-ng](https://github.com/ben-ng).
+This command will download __this project__ and the [convert-units](https://github.com/ben-ng/convert-units) package by [ben-ng](https://github.com/ben-ng).
 
 ---
 
@@ -40,4 +42,4 @@ yarn run lint
 
 ## License
 
-This package is under MIT License.
+This package is released under [MIT License](LICENSE).
