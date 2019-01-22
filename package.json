@@ -1,7 +1,7 @@
 {
   "name": "@codekraft-studio/vue-convert-units",
   "description": "Convert units with vue integrating convert-units",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "author": "b4dnewz <filippo@codekraft.it>",
   "main": "./dist/VueConvertUnits.umd.js",
